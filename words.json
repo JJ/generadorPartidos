@@ -1,13 +1,13 @@
 {"izquierdas":
  [
-     ["Ahora", "En común", "Podemos", "Unidos", "Venceremos", "A la Moncloa", "Juntos, ", "Ganemos", "Al frente", "Unidad", "Adelante", "Vamos", "Convergencia", "Unión del pueblo" ],
+     ["Ahora", "En común", "Podemos", "Unidos", "Venceremos", "A la Moncloa", "Juntos, ", "Ganemos", "Al frente", "Unidad", "Adelante", "Vamos", "Convergencia", "Unión del pueblo","Marea" ],
      ["la izquierda", "juntos", "sí se puede", "por la democracia", "sí que se puede", "por los trabajadores", "es posible",
-      "en común", "toma la palabra", "por el pueblo", "por la dignidad", "por el cambio" ]
+      "en común", "toma la palabra", "por el pueblo", "por la dignidad", "por el cambio","si que es pot", "unidos","por los pueblos" ]
  ],
 
  "derechas":
  [
-     ["Frente","Unión","Comunión", "Fuerza", "Libertad" ],
-     ["y Patria","por la Patria","y Orden","por la Justicia","y Democracia","de los Patriotas"]
+     ["Frente","Unión","Comunión", "Fuerza", "Libertad", "Patria", "Progreso", "Alianza", "Familia", "Ley" ],
+     ["y Patria","por la Patria","y Orden","por la Justicia","y Democracia","de los Patriotas","Nacional", "y Nación", "Liberal", "2000", "y Vida","y Justicia"]
  ]
 }
